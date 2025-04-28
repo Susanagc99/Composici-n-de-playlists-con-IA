@@ -1,4 +1,4 @@
-# 🎵 Transformando la Composición de Playlists: IA Emocional y Dinámica 🎶
+# Transformando la Composición de Playlists: IA Emocional y Dinámica 🎵🎧 
 
 > Proyecto de aplicación de Inteligencia Artificial para la personalización emocional y contextual de playlists musicales.
 
